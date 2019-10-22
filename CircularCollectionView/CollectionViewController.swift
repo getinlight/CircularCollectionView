@@ -12,7 +12,7 @@ let reuseIdentifier = "Cell"
 
 class CollectionViewController: UICollectionViewController {
   
-  let images: [String] = Bundle.main.paths(forResourcesOfType: "png", inDirectory: "Images")
+  let images = Bundle.main.paths(forResourcesOfType: "png", inDirectory: "Images")
   
   override func viewDidLoad() {
     super.viewDidLoad()

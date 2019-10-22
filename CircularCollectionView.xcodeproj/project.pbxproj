@@ -17,6 +17,7 @@
 		121FE7031AF8ABBC00CB9C1A /* CircularCollectionViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121FE7021AF8ABBC00CB9C1A /* CircularCollectionViewTests.swift */; };
 		1264DB721AFF385B00840B41 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1264DB711AFF385B00840B41 /* CollectionViewController.swift */; };
 		1284E0FF1B045F0F00FE9424 /* bg-dark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1284E0FE1B045F0F00FE9424 /* bg-dark.jpg */; };
+		191CFB292355695500921ACD /* CircularCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191CFB282355695500921ACD /* CircularCollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		121FE7021AF8ABBC00CB9C1A /* CircularCollectionViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularCollectionViewTests.swift; sourceTree = "<group>"; };
 		1264DB711AFF385B00840B41 /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		1284E0FE1B045F0F00FE9424 /* bg-dark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bg-dark.jpg"; sourceTree = "<group>"; };
+		191CFB282355695500921ACD /* CircularCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularCollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				120233451B03B741009DAE0A /* CircularCollectionViewCell.swift */,
 				120233461B03B741009DAE0A /* CircularCollectionViewCell.xib */,
 				1264DB711AFF385B00840B41 /* CollectionViewController.swift */,
+				191CFB282355695500921ACD /* CircularCollectionViewLayout.swift */,
 				121FE6F01AF8ABBB00CB9C1A /* Main.storyboard */,
 				121FE6F31AF8ABBB00CB9C1A /* Images.xcassets */,
 				121FE6F51AF8ABBB00CB9C1A /* LaunchScreen.xib */,
@@ -239,6 +242,7 @@
 				1264DB721AFF385B00840B41 /* CollectionViewController.swift in Sources */,
 				120233471B03B741009DAE0A /* CircularCollectionViewCell.swift in Sources */,
 				121FE6ED1AF8ABBB00CB9C1A /* AppDelegate.swift in Sources */,
+				191CFB292355695500921ACD /* CircularCollectionViewLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
